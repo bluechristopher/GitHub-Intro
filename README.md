@@ -1,4 +1,4 @@
-$ GitHub Intro
+# GitHub Intro
 
 - [Version Control](#version-control)
 - [So, what is Version Control?](#so--what-is-version-control-)
