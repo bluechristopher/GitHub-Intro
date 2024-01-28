@@ -1,5 +1,4 @@
-# 9569learn
-9569 Learning Group
+$ GitHub Intro
 
 - [Version Control](#version-control)
 - [So, what is Version Control?](#so--what-is-version-control-)
